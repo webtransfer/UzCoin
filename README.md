@@ -1,11 +1,11 @@
-Litecoin Core integration/staging tree
+UzCoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
+[![Build Status](https://travis-ci.org/webtransfer/UzCoin.svg?branch=master)](https://travis-ci.org/webtransfer/UzCoin)
 
-https://litecoin.org
+https://UzBitcoin.org
 
-What is Litecoin?
+What is UzCoin?
 ----------------
 
 Litecoin is an experimental digital currency that enables instant payments to
